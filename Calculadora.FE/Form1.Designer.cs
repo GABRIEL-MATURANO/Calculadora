@@ -1,6 +1,6 @@
 ﻿namespace Calculadora.FE
 {
-    partial class Form1
+    partial class btPrueba
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -112,7 +112,7 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // btPrueba
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -125,7 +125,7 @@
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.txtOper2);
             this.Controls.Add(this.txtOper1);
-            this.Name = "Form1";
+            this.Name = "btPrueba";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
